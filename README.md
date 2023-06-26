@@ -1,9 +1,9 @@
-### Hello 👋 , Welcome to Gaurav's GitHub Profile
+# Hello 👋 , Welcome to Gaurav's GitHub Profile
 
-An enthusiastic data science explorer, unveiling the myriad faces of this fascinating field.
-🪄 Exploring the magic of machine learning! 
-💡 Constantly learning, tinkering, and experimenting with algorithms and models 
-🤖 Unwavering passion for learning
+An enthusiastic data science explorer, unveiling the myriad faces of this fascinating field.\
+🪄 Exploring the magic of machine learning! \
+💡 Constantly learning, tinkering, and experimenting with algorithms and models \
+🤖 Unwavering passion for learning\
 Embark on my exciting journey in the world of data science!!
 
 <!--
